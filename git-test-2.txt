@@ -1,0 +1,2 @@
+Do files need to be re-added after each change?
+Apparently so.
